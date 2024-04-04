@@ -1,0 +1,3 @@
+﻿  Laboratory.cpp
+C:\Users\rakan\OneDrive\Desktop\LAB1(EECS1500)\Lab1Naser\Laboratory.cpp(18,10): warning C4305: '=': truncation from 'double' to 'float'
+  Lab1Naser.vcxproj -> C:\Users\rakan\OneDrive\Desktop\LAB1(EECS1500)\Lab1Naser\x64\Start Without Debugging\Lab1Naser.exe
